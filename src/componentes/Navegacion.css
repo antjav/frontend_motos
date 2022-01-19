@@ -1,0 +1,7 @@
+.ul{
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  align-content: center;
+  justify-content: center;
+}
